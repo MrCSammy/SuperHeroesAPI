@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\migrations\\20240510152336_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:migrations\\20240510152336_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|c:\\users\\smart samuel\\source\\repos\\superheroesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E55985D8-FAA0-4026-AF39-3FCFE034B370}|SuperHeroesAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:44:07.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240510152336_CreateInitial.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Migrations\\20240510152336_CreateInitial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240510152336_CreateInitial.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Migrations\\20240510152336_CreateInitial.cs",
+              "RelativeToolTip": "Migrations\\20240510152336_CreateInitial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:50:41.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuperHeroController.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "Controllers\\SuperHeroController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:29:21.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:51:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T10:46:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:50:30.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\SuperHero.cs",
+              "RelativeDocumentMoniker": "SuperHero.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\SuperHeroesAPI\\SuperHero.cs",
+              "RelativeToolTip": "SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:50:12.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

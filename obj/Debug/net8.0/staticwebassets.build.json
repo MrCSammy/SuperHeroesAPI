@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8+SP2xQhGTLpXWJs3Vx2BLk4SfFbBvLM+eoYZjh2Kqg=",
+  "Source": "SuperHeroesAPI",
+  "BasePath": "_content/SuperHeroesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
